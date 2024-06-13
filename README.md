@@ -4,10 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alves_guiiii/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.henri6ue@gmail.com)
 
-<div style="display: flex">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHenriqueAlvesSantos&theme=dracula" />
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeHenriqueAlvesSantos&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_progress=true" />
-</div>
+![Guilherme Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeHenriqueAlvesSantos&show_icons=true&bg_color=00000000)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeHenriqueAlvesSantos&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies
 
