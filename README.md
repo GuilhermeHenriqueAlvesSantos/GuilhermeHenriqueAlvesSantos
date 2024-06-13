@@ -6,7 +6,7 @@
 
 <div style="display: flex">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHenriqueAlvesSantos&theme=dracula" />
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme Henrique Alves Santos&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_progress=true" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeHenriqueAlvesSantos&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_progress=true" />
 </div>
 
 ### Technologies
