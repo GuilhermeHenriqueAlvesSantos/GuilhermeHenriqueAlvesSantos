@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.henri6ue@gmail.com)
 
 ![Guilherme Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeHenriqueAlvesSantos&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHenriqueAlvesSantos&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHenriqueAlvesSantos&langs_count=8)
 
 ### Technologies
 
